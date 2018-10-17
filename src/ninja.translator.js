@@ -104,7 +104,7 @@ ninja.translator = {
 			"footerlabelgithub": "Repositorio GitHub",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "Copyright del código JavaScript: en el fuente.",
 			"footerlabelnowarranty": "Sin garantía.",
 
@@ -113,7 +113,7 @@ ninja.translator = {
 			"singleprint": "Imprimir",
 			"singlelabelbitcoinaddress": "Dirección Litecoin",
 			"singlelabelprivatekey": "Clave privada (formato para importar):",
-			"singletip1": "<b>A Litecoin wallet</b> is as simple as a single pairing of a Litecoin address with it's corresponding Litecoin private key. Such a wallet has been generated for you in your web browser and is displayed above.", //TODO: please translate
+			"singletip1": "<b>A  Batamcoin Wallet</b> is as simple as a single pairing of a Litecoin address with it's corresponding Litecoin private key. Such a wallet has been generated for you in your web browser and is displayed above.", //TODO: please translate
 			"singletip2": "<b>To safeguard this wallet</b> you must print or otherwise record the Litecoin address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you are familiar with PGP you can download this all-in-one HTML page and check that you have an authentic version from the author of this site by matching the SHA1 hash of this HTML with the SHA1 hash available in the signed version history document linked on the footer of this site. If you leave/refresh the site or press the Generate New Address button then a new private key will be generated and the previously displayed private key will not be retrievable.	Your Litecoin private key should be kept a secret. Whomever you share the private key with has access to spend all the litecoins associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.", //TODO: please translate
 			"singletip3": "<b>Add funds</b> to this wallet by instructing others to send litecoins to your Litecoin address.", //TODO: please translate
 			"singletip4": "<b>Check your balance</b> by going to block-explorer.com or explorer.litecoin.net and entering your Litecoin address.", //TODO: please translate
@@ -199,7 +199,7 @@ ninja.translator = {
 			"detaillabelpassphrase": "BIP38 Passphrase", //TODO: please translate
 			"detaildecrypt": "Decrypt BIP38", //TODO: please translate
 			"detaillabelq1": "How do I make a wallet using dice? What is B6?", //TODO: please translate
-			"detaila1": "An important part of creating a Litecoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
+			"detaila1": "An important part of creating a  Batamcoin Wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
 		},
 
 		"fr": {
@@ -242,7 +242,7 @@ ninja.translator = {
 			"footerlabelgithub": "Dépôt GitHub",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "Les droits d'auteurs JavaScript sont inclus dans le code source.",
 			"footerlabelnowarranty": "Aucune garantie.",
 			
@@ -251,7 +251,7 @@ ninja.translator = {
 			"singleprint": "Imprimer",
 			"singlelabelbitcoinaddress": "Adresse Litecoin:",
 			"singlelabelprivatekey": "Clé Privée (Format d'importation de porte-monnaie):",
-			"singletip1": "<b>A Litecoin wallet</b> is as simple as a single pairing of a Litecoin address with it's corresponding Litecoin private key. Such a wallet has been generated for you in your web browser and is displayed above.", //TODO: please translate
+			"singletip1": "<b>A  Batamcoin Wallet</b> is as simple as a single pairing of a Litecoin address with it's corresponding Litecoin private key. Such a wallet has been generated for you in your web browser and is displayed above.", //TODO: please translate
 			"singletip2": "<b>To safeguard this wallet</b> you must print or otherwise record the Litecoin address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you are familiar with PGP you can download this all-in-one HTML page and check that you have an authentic version from the author of this site by matching the SHA1 hash of this HTML with the SHA1 hash available in the signed version history document linked on the footer of this site. If you leave/refresh the site or press the Generate New Address button then a new private key will be generated and the previously displayed private key will not be retrievable.	Your Litecoin private key should be kept a secret. Whomever you share the private key with has access to spend all the litecoins associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.", //TODO: please translate
 			"singletip3": "<b>Add funds</b> to this wallet by instructing others to send litecoins to your Litecoin address.", //TODO: please translate
 			"singletip4": "<b>Check your balance</b> by going to explorer.litecoin.net or block-explorer.com and entering your Litecoin address.", //TODO: please translate
@@ -338,7 +338,7 @@ ninja.translator = {
 			"detaillabelpassphrase": "BIP38 Passphrase", //TODO: please translate
 			"detaildecrypt": "Decrypt BIP38", //TODO: please translate
 			"detaillabelq1": "How do I make a wallet using dice? What is B6?", //TODO: please translate
-			"detaila1": "An important part of creating a Litecoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
+			"detaila1": "An important part of creating a  Batamcoin Wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
 		},
 
 		"el": {
@@ -381,7 +381,7 @@ ninja.translator = {
 			"footerlabelgithub": "Αποθετήριο GitHub",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "Τα πνευματικά δικαιώματα της JavaScript περιλαμβάνονται στον κώδικα.",
 			"footerlabelnowarranty": "Καμία εγγύηση.",
 
@@ -390,7 +390,7 @@ ninja.translator = {
 			"singleprint": "Εκτύπωση",
 			"singlelabelbitcoinaddress": "Διεύθυνση Litecoin:",
 			"singlelabelprivatekey": "Προσωπικό Κλειδί (Μορφή εισαγωγής σε πορτοφόλι):",
-			"singletip1": "<b>A Litecoin wallet</b> is as simple as a single pairing of a Litecoin address with it's corresponding Litecoin private key. Such a wallet has been generated for you in your web browser and is displayed above.", //TODO: please translate
+			"singletip1": "<b>A  Batamcoin Wallet</b> is as simple as a single pairing of a Litecoin address with it's corresponding Litecoin private key. Such a wallet has been generated for you in your web browser and is displayed above.", //TODO: please translate
 			"singletip2": "<b>To safeguard this wallet</b> you must print or otherwise record the Litecoin address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you are familiar with PGP you can download this all-in-one HTML page and check that you have an authentic version from the author of this site by matching the SHA1 hash of this HTML with the SHA1 hash available in the signed version history document linked on the footer of this site. If you leave/refresh the site or press the Generate New Address button then a new private key will be generated and the previously displayed private key will not be retrievable.	Your Litecoin private key should be kept a secret. Whomever you share the private key with has access to spend all the litecoins associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.", //TODO: please translate
 			"singletip3": "<b>Add funds</b> to this wallet by instructing others to send litecoins to your Litecoin address.", //TODO: please translate
 			"singletip4": "<b>Check your balance</b> by going to explorer.litecoin.net or block-explorer.com and entering your Litecoin address.", //TODO: please translate
@@ -476,7 +476,7 @@ ninja.translator = {
 			"detaillabelpassphrase": "BIP38 Κωδικός",
 			"detaildecrypt": "Αποκωδικοποίηση BIP38",
 			"detaillabelq1": "How do I make a wallet using dice? What is B6?", //TODO: please translate
-			"detaila1": "An important part of creating a Litecoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
+			"detaila1": "An important part of creating a  Batamcoin Wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
 		},
 		
 	    "it": {
@@ -500,7 +500,7 @@ ninja.translator = {
 			"vanityalertinvalidinputprivatekeysmatch": "Dati inseriti non validi. Entrambe le chiavi private combaciano. Devi inserire due chiavi differenti.",
 
 			// header and menu html
-			"tagline": "Open Source JavaScript Client-Side Litecoin Wallet Generator",
+			"tagline": "Open Source JavaScript Client-Side  Batamcoin Wallet Generator",
 			"generatelabelbitcoinaddress": "Generazione Indirizzo Litecoin...",
 			"generatelabelmovemouse": "MUOVI il tuo mouse per contribuire alla generazione dei numeri casuali...",
 			"generatelabelkeypress": "OR type some random characters into this textbox", //TODO: please translate
@@ -519,7 +519,7 @@ ninja.translator = {
 			"footerlabelgithub": "Repository GitHub",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "Le note di copyright dei file JavaScript sono inclusi nei sorgenti stessi.",
 			"footerlabelnowarranty": "Nessuna garanzia.",
 
@@ -614,7 +614,7 @@ ninja.translator = {
 			"detaillabelpassphrase": "Inserisci passphrase BIP38",
 			"detaildecrypt": "Decripta BIP38",
 			"detaillabelq1": "How do I make a wallet using dice? What is B6?", //TODO: please translate
-			"detaila1": "An important part of creating a Litecoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
+			"detaila1": "An important part of creating a  Batamcoin Wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Litecoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Litecoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used." //TODO: please translate
 	    },
 	    
 	    "de": {
@@ -657,7 +657,7 @@ ninja.translator = {
 			"footerlabelgithub": "GitHub-Repository",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "JavaScript-Copyrights sind im Quelltext enthalten.",
 			"footerlabelnowarranty": "Ohne Gew&auml;hr.",
 
@@ -795,7 +795,7 @@ ninja.translator = {
 			"footerlabelgithub": "GitHub Repository",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "Copyright JavaScriptu je uveden ve zdrojovém kódu.",
 			"footerlabelnowarranty": "Bez záruky.",
 
@@ -934,7 +934,7 @@ ninja.translator = {
 			"footerlabelgithub": "GitHub kódtár",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "Az egyes JavaScript kódok szerzőinek jogai a forráskódon belül találhatók meg.",
 			"footerlabelnowarranty": "Garancia nincs.",
 
@@ -1078,7 +1078,7 @@ ninja.translator = {
 			"footerlabelgithub": "GitHubリポジトリ",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "JavaScriptのコピーライト情報はソースに含まれています。",
 			"footerlabelnowarranty": "保障はありません。",
 
@@ -1224,7 +1224,7 @@ ninja.translator = {
 			"footerlabelgithub": "GitHub页面",
 			"footerlabelgithubzip": "zip",
 			"footerlabelsig": "sig",
-			"footerlabelcopyright1": "Copyright bitaddress.org.",
+			"footerlabelcopyright1": "Copyright bamaddress.org.",
 			"footerlabelcopyright2": "JavaScript的版权信息已经包含在源代码中。",
 			"footerlabelnowarranty": "No warranty",
 
